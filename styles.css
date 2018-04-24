@@ -1,11 +1,39 @@
-* {
+body {
   outline: 2px solid grey;
-  min-height: 30px;
-  min-width: 100px;
+  width: 1150px;
+  height: 2000px;
 }
 
 h1 {
+  color: #0c455e;
+  text-shadow: 2px 2px 4px #000000;
   background-color: #4198be;
   text-align: center;
   font-size: 60px;
+}
+.header {
+  background-color: #0c1c3c;
+}
+.main {
+  background-color: #85848a;
+}
+button {
+  width: 100px;
+  height: 35px;
+  border-radius: 12px;
+  box-shadow: 3px 3px 5px #1e1a25;
+  color: #0c1c3c;
+  font-size: 16px;
+  margin-right: 40px;
+
+}
+.cell {
+  border-bottom: 2px solid #1e1a25;
+  padding: 20px;
+  font-size: 20px;
+}
+h2 {
+  text-align: center;
+  font-size: 43px;
+  border:
 }
