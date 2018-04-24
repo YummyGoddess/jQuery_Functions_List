@@ -1,0 +1,11 @@
+* {
+  outline: 2px solid grey;
+  min-height: 30px;
+  min-width: 100px;
+}
+
+h1 {
+  background-color: #4198be;
+  text-align: center;
+  font-size: 60px;
+}
