@@ -12,6 +12,8 @@ h1 {
   font-size: 60px;
 }
 .header {
+  width: 100%;
+  height: 140px;
   background: rgb(2,0,36);
   background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(12,69,94,1) 46%, rgba(2,0,36,1) 100%);
 }
