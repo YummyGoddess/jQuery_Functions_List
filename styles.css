@@ -7,12 +7,13 @@ body {
 h1 {
   color: #0c455e;
   text-shadow: 2px 2px 4px #000000;
-  background-color: #4198be;
+
   text-align: center;
   font-size: 60px;
 }
 .header {
-  background-color: #0c1c3c;
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(12,69,94,1) 46%, rgba(2,0,36,1) 100%);
 }
 .main {
   background-color: #85848a;
@@ -23,8 +24,11 @@ button {
   border-radius: 12px;
   box-shadow: 3px 3px 5px #1e1a25;
   color: #0c1c3c;
+  color: silver;
   font-size: 16px;
   margin-right: 40px;
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(12,69,94,1) 46%, rgba(2,0,36,1) 100%);
 
 }
 .cell {
